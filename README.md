@@ -1,6 +1,11 @@
-# Melanoma detection on a smartphone
+# Melanoma (Skin Cancer) detection on a smartphone app
 
-This android application analyzes a lesion image and can classify it as benign or suspicious of melanoma. It is developed using computer vision library OpenCV 3.2 and Java in Android Studio.
+This Android application analyzes a lesion image and can classify it as benign or suspicious of melanoma. It is developed using computer vision library OpenCV 3.2 and Java in Android Studio. The code is developed by Upender Kalwa at Iowa State University (2019). 
+
+Link to the published paper is below:
+
+Upender Kalwa, Christopher Legner, Taejoon Kong, and Santosh Pandey. 2019. "Skin Cancer Diagnostics with an All-Inclusive Smartphone Application" Symmetry 11, no. 6: 790. 
+https://doi.org/10.3390/sym11060790
 
 ## Requirments
 
